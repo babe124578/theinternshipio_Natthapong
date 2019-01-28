@@ -1,0 +1,13 @@
+PARIS eiffel
+BEACH a place for summer
+ATLANTIS island of Atlas
+HOSPITAL cure at this place
+NORTH POLE northest of the world
+ANTARCTICA southest of the world
+NEW YORK biggest town of america
+THAILAND south east asia
+SYDNEY OPERA HOUSE famous place australia
+SILICON VALLEY industry of IT
+YELLOWSTONE national park
+GREAT WALL longest structure
+LAS VEGAS america playground

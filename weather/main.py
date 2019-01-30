@@ -49,3 +49,9 @@ for i in listOfLine:
     print(i) 
     file.write(i+"\n") 
 file.close() 
+
+print("")
+print("")
+print("")
+print("End of program")
+input("Press ENTER to exit..")
